@@ -1,4 +1,4 @@
-# GameStateManager
+# MoodyLib.GameStateManager
 
 A lightweight stack-based game state machine for Unity.  
 Useful for UI flows, gameplay mode switching, pause systems, cutscenes, and any scenario where states need to be layered and resumed.
