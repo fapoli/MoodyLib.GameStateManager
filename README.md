@@ -17,7 +17,7 @@ Useful for UI flows, gameplay mode switching, pause systems, cutscenes, and any 
 4. Paste the following URL and click **Add**:
 
    ```text
-   https://github.com/fapoli/GameStateManager.git
+   https://github.com/fapoli/MoodyLib.GameStateManager.git
    ```
 
 Unity will download and install the package. After installation, it will appear under the **Packages** folder.
